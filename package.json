@@ -1,0 +1,16 @@
+{
+  "name": "demoCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hellocli": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "inquirer": "^7.3.3"
+  }
+}
